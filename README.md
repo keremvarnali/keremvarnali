@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Kerem Varnalı.
+
+🌱I am freshman at İhsan Doğramacı Bilkent University.
+👯My major is Computer Science.
 
 <!--
 **keremvarnali/keremvarnali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
