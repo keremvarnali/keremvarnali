@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kerem Varnalı.
 
-🌱I am freshman at İhsan Doğramacı Bilkent University.
+🌱I am freshman at İhsan Doğramacı Bilkent University.\n
 👯My major is Computer Science.
 
 <!--
